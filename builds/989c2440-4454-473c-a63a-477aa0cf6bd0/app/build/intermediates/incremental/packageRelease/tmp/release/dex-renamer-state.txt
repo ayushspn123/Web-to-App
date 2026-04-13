@@ -1,0 +1,4 @@
+#Tue Dec 23 01:54:14 IST 2025
+base.0=C\:\\Users\\HP-5CD4371SQ6\\Downloads\\website-to-app-converter\\builds\\989c2440-4454-473c-a63a-477aa0cf6bd0\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

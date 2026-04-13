@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.game.next.app-mergeDebugResources-26:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\HP-5CD4371SQ6\\.gradle\\caches\\8.13\\transforms\\6d9856645f84bb5f9b4ed43999fb6545\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

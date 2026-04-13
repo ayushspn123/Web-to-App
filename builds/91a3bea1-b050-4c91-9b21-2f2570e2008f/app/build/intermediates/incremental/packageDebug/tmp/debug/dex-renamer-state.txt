@@ -1,0 +1,10 @@
+#Tue Dec 23 11:47:32 IST 2025
+base.2=C\:\\Users\\HP-5CD4371SQ6\\Downloads\\website-to-app-converter\\builds\\91a3bea1-b050-4c91-9b21-2f2570e2008f\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
+path.2=2/classes.dex
+base.1=C\:\\Users\\HP-5CD4371SQ6\\Downloads\\website-to-app-converter\\builds\\91a3bea1-b050-4c91-9b21-2f2570e2008f\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+path.1=0/classes.dex
+base.0=C\:\\Users\\HP-5CD4371SQ6\\Downloads\\website-to-app-converter\\builds\\91a3bea1-b050-4c91-9b21-2f2570e2008f\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
